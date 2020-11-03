@@ -1,0 +1,10 @@
+.idea/*
+*.iml
+#test-output files
+test-output/*
+bin/
+lib/default/
+target/
+.allure/
+debug.log
+
